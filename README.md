@@ -27,4 +27,4 @@ To run this project locally download the code and run in the Visual Studio Code 
 Project is finished.
 
 ## Inspiration
-Project inspired based on Udemy course "[2021] Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap"
+Project based on Udemy course "[2021] Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap"
